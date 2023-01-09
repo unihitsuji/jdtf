@@ -93,7 +93,7 @@ REPL で作業してるときに `tk-mainloop` が戻らないのは不便だよ
 > call `tk-mainloop` with `background` keyword argument:
 
 ```scheme:
-(tk-mainloog :background #t)
+(tk-mainloo :background #t)
 ```
 
 これはイベントループを別のスレッドで走らせるよ (^-^)!
