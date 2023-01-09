@@ -1,6 +1,4 @@
-# Gauche-tk の意訳
-
-  [Gauche-tk](https://github.com/shirok/Gauche-tk) の意訳な和訳です
+# [Gauche-tk](https://github.com/shirok/Gauche-tk) の意訳な和訳
 
 # Gauche-tk について
 
