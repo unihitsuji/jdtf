@@ -1,3 +1,4 @@
+<!-- -*- coding: utf-8 -*- -->
 # 意訳な和訳
 japanese documents transleted freely
 
